@@ -1,7 +1,5 @@
 # Copycat
 
-> **"Originality is overrated."**
-
 **Copycat** is a raw, industrial-style meme generator that interfaces with the infinite chaos of the **Cat as a Service (CATAAS)** API. It abandons modern, polished aesthetics for a gritty "Xerox/Zine" vibe, serving as a functional engine for feline replication and text injection.
 
 ![Project Preview](public/copycat.jpg)
